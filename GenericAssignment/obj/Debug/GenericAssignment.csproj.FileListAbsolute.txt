@@ -1,0 +1,8 @@
+D:\Assignement\GenericAssignment\GenericAssignment\obj\Debug\GenericAssignment.csproj.AssemblyReference.cache
+D:\Assignement\GenericAssignment\GenericAssignment\obj\Debug\GenericAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Assignement\GenericAssignment\GenericAssignment\obj\Debug\GenericAssignment.csproj.CoreCompileInputs.cache
+D:\Assignement\GenericAssignment\GenericAssignment\bin\Debug\GenericAssignment.exe.config
+D:\Assignement\GenericAssignment\GenericAssignment\bin\Debug\GenericAssignment.exe
+D:\Assignement\GenericAssignment\GenericAssignment\bin\Debug\GenericAssignment.pdb
+D:\Assignement\GenericAssignment\GenericAssignment\obj\Debug\GenericAssignment.exe
+D:\Assignement\GenericAssignment\GenericAssignment\obj\Debug\GenericAssignment.pdb
